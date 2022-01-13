@@ -1,0 +1,29 @@
+.inputSearch{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-size: 20px;
+    margin-left: 10px;
+    color: #000;
+    outline: none;
+    /* colocar raya abajo del input */
+    border-bottom: 1px solid white;
+    font-weight: bold;
+
+}
+.btnSearch{
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    align-self: flex-end;
+    height: 3rem;
+    /* margin: .25rem;
+    padding: .25rem; */
+    margin-left: 20px;
+
+
+}

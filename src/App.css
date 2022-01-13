@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: rgb(247, 244, 244);
+  min-height: 100vh;
+  min-width: 100vw;
+  /* imagen de fondo de la app  */
+  /* background-image: url("https://us.123rf.com/450wm/gyn9037/gyn90371902/gyn9037190200071/116624210-guangxi-nanning-qingxiu-shan-paisajes-lagos-y-edificios-antiguos-.jpg?ver=6"); */
+  background-image: url("./assets/pexels-quang-nguyen-vinh-6129824.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;  
+  opacity: 0.9;
+  background-color: rgba(0, 0, 0, 0.5);  
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-color: rgb(247, 244, 244); 
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
